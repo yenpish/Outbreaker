@@ -1,29 +1,47 @@
-# Outbreaker
+# 🦠 Outbreaker
 
-An Android serious game developed using **Kotlin** and **Jetpack Compose** to introduce players to the fundamentals of outbreak investigation through interactive gameplay.
+![Outbreaker Dashboard](screenshots/dashboard.png)
 
-## Overview
+An Android serious game developed using **Kotlin** and **Jetpack Compose** that introduces players to the fundamentals of outbreak investigation through interactive gameplay.
 
-Outbreaker is an educational game where players investigate a disease outbreak by gathering clues, analysing evidence, and making decisions to control the spread of infection. The project was developed as part of a university coursework assignment.
+---
 
-## Features
+## 📖 Overview
 
-* Interactive outbreak investigation gameplay
-* Multiple investigation locations
-* Evidence collection and analysis
-* Decision-based gameplay
-* Android application built with Jetpack Compose
+Outbreaker is an educational Android game developed as a university coursework project. Players investigate a disease outbreak by gathering evidence, analysing information, and making decisions to control the spread of infection while learning the basic concepts of public health investigation.
 
-## Technologies Used
+---
 
-* Kotlin
-* Jetpack Compose
-* Android Studio
+## ✨ Features
 
-## Screenshots
+- Interactive outbreak investigation gameplay
+- Multiple investigation locations
+- Evidence collection and analysis
+- Decision-based gameplay
+- Android application built using Jetpack Compose
 
-*Screenshots will be added soon.*
+---
 
-## Project Status
+## 🛠 Technologies
 
-Completed as a university coursework project and open for future improvements.
+- Kotlin
+- Jetpack Compose
+- Android Studio
+
+---
+
+## 📷 Screenshots
+
+| Main Menu | Dashboard |
+|-----------|-----------|
+| ![](screenshots/menu.png) | ![](screenshots/dashboard.png) |
+
+| Map | Investigation |
+|-----|---------------|
+| ![](screenshots/map.png) | ![](screenshots/investigation.png) |
+
+---
+
+## 📚 Project Status
+
+Completed as a university coursework project with potential for future improvements.
