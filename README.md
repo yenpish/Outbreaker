@@ -34,11 +34,11 @@ Outbreaker is an educational Android game developed as a university coursework p
 
 | Main Menu | Dashboard |
 |-----------|-----------|
-| ![](screenshots/menu.png) | ![](screenshots/dashboard.png) |
+| ![](screenshots/Menu.png) | ![](screenshots/Dashboard.png) |
 
 | Map | Investigation |
 |-----|---------------|
-| ![](screenshots/map.png) | ![](screenshots/investigation.png) |
+| ![](screenshots/Map.png) | ![](screenshots/Investigation.png) |
 
 ---
 
