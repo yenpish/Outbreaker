@@ -1,6 +1,6 @@
 # 🦠 Outbreaker
 
-![Outbreaker Dashboard](screenshots/dashboard.png)
+![Outbreaker Dashboard](screenshots/Dashboard.png)
 
 An Android serious game developed using **Kotlin** and **Jetpack Compose** that introduces players to the fundamentals of outbreak investigation through interactive gameplay.
 
